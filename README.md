@@ -46,7 +46,7 @@
 <body>
     <div class="container">
         <h1>Ujwal Pratap Singh</h1>
-        <p>Hi, I'm Ujwal Pratap Singh, a 24-year-old professional currently working at Hulassteel Industries Limited. I have a passion for digital marketing, graphic designing, and website creation. I enjoy turning creative ideas into digital realities, whether it's through a well-designed graphic or an engaging online experience.</p>
+        <p>Hi, I'm Ujwal Pratap Singh, a 24-year-old professional currently working at Hulas Steel Industries Limited. I have a passion for digital marketing, graphic designing, and website creation. I enjoy turning creative ideas into digital realities, whether it's through a well-designed graphic or an engaging online experience.</p>
         <p>In my free time, I love exploring new trends in the digital world, learning new skills, and working on personal projects that challenge me to grow.</p>
         <div class="social-links">
             <p>Connect with me on social media:</p>
